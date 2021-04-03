@@ -1,8 +1,10 @@
 body {
-    background-color: hsl(273, 75%, 66%);
+    background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 42%, 45%));
+    background-repeat: no-repeat;
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 12px;
     line-height: 1.6;
+    height: 850px;
 }
 
 .container {
